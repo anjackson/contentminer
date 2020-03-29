@@ -1,0 +1,5 @@
+#!/bin/bash
+echo Fixing up GROBID installation...
+mkdir -p workspace/grobid
+ln -s /opt/grobid-0.5.3 workspace/grobid/
+echo GROBID installed.
