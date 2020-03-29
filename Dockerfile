@@ -10,9 +10,12 @@ RUN pip3 install --no-cache notebook bash_kernel && \
     python3 -m bash_kernel.install
 
 ## And install Tika and G
-RUN curl -k -O https://www.mirrorservice.org/sites/ftp.apache.org/tika/tika-app-1.24.jar
-RUN curl -k -L -O https://github.com/kermitt2/grobid/archive/0.5.3.zip
-#RUN unzip 0.5.3.zip
+RUN curl -k -o /opt/tika.jar https://www.mirrorservice.org/sites/ftp.apache.org/tika/tika-app-1.24.jar
+RUN curl -k -L -o /opt/grobid-src-0.5.3.zip https://github.com/kermitt2/grobid/archive/0.5.3.zip
+RUN curl -k -L -o /opt/grobid-core-0.5.3-onejar.jar https://github.com/kermitt2/grobid/releases/download/0.5.3/grobid-core-0.5.3-onejar.jar
+RUN cd /opt && unzip -o grobid-src-0.5.3.zip && mkdir -p /opt/grobid-0.5.3/grobid-core/build/libs/ && mv /opt/grobid-core-0.5.3-onejar.jar /opt/grobid-0.5.3/grobid-core/build/libs/
+RUN mkdir -p /opt/grobid-0.5.3/grobid-home/tmp && chmod a+rwx /opt/grobid-0.5.3/grobid-home/tmp
+#/home/jovyan/workspace/grobid/grobid-0.5.3/grobid-core/build/libs/grobid-core-0.5.3-onejar.jar
 
 ### Create user with a home directory:
 ARG NB_USER=anj
