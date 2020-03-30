@@ -7,7 +7,7 @@ RUN pip3 install --no-cache notebook bash_kernel && \
     python3 -m bash_kernel.install
 
 ### Create user with a home directory:
-ARG NB_USER=jovian
+ARG NB_USER=jovyan
 ARG NB_UID=1000
 ENV USER ${NB_USER}
 ENV HOME /home/${NB_USER}
