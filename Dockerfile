@@ -3,7 +3,7 @@ FROM anjackson/ami3
 # ...and add what we need for MyBinder support.
 
 ### Python requirements for Jupyter support:
-RUN pip3 install --no-cache notebook bash_kernel && \
+RUN pip3 install --no-cache notebook bash_kernel requests && \
     python3 -m bash_kernel.install
 
 ### Create user with a home directory:
