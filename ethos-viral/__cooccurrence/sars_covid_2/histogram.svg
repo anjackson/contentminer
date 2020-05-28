@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="20.0" width="519.4945054945056" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <rect x="10.0" y="-215.0" width="5.4945054945054945" height="225.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="10.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,0.0,20.0)" style="font-size:1.0000000000000013px;">transmission</text>
+  <rect x="15.0" y="-125.0" width="5.4945054945054945" height="135.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="15.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,4.999999999999998,25.0)" style="font-size:1.0000000000000013px;">membrane</text>
+  <rect x="20.0" y="-75.0" width="5.4945054945054945" height="85.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="20.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,9.999999999999998,30.0)" style="font-size:1.0000000000000013px;">immune response</text>
+  <rect x="26.0" y="-71.0" width="5.4945054945054945" height="81.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="26.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,15.999999999999998,36.0)" style="font-size:1.0000000000000013px;">genomic</text>
+  <rect x="31.0" y="-40.0" width="5.4945054945054945" height="50.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="31.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,21.0,41.0)" style="font-size:1.0000000000000013px;">pandemic</text>
+  <rect x="37.0" y="-30.0" width="5.4945054945054945" height="40.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="37.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,27.0,47.0)" style="font-size:1.0000000000000013px;">pathogenicity</text>
+  <rect x="42.0" y="-28.0" width="5.4945054945054945" height="38.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="42.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,32.0,52.0)" style="font-size:1.0000000000000013px;">virion</text>
+  <rect x="48.0" y="-25.0" width="5.4945054945054945" height="35.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="48.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,38.0,58.0)" style="font-size:1.0000000000000013px;">virions</text>
+  <rect x="53.0" y="-20.0" width="5.4945054945054945" height="30.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="53.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,43.0,63.0)" style="font-size:1.0000000000000013px;">immune response</text>
+  <rect x="59.0" y="-18.0" width="5.4945054945054945" height="28.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="59.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,49.0,69.0)" style="font-size:1.0000000000000013px;">incubation peri</text>
+  <rect x="64.0" y="-10.0" width="5.4945054945054945" height="20.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="64.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,54.0,74.0)" style="font-size:1.0000000000000013px;">nucleocapsid</text>
+  <rect x="70.0" y="-10.0" width="5.4945054945054945" height="20.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="70.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,60.0,80.0)" style="font-size:1.0000000000000013px;">immune response</text>
+  <rect x="75.0" y="-8.0" width="5.4945054945054945" height="18.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="75.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,65.0,85.0)" style="font-size:1.0000000000000013px;">virulence facto</text>
+  <rect x="81.0" y="-7.0" width="5.4945054945054945" height="17.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="81.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,71.0,91.0)" style="font-size:1.0000000000000013px;">nucleic acids</text>
+  <rect x="86.0" y="-5.0" width="5.4945054945054945" height="15.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="86.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,76.0,96.0)" style="font-size:1.0000000000000013px;">SARS</text>
+  <rect x="92.0" y="-4.0" width="5.4945054945054945" height="14.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="92.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,82.0,102.0)" style="font-size:1.0000000000000013px;">contagious</text>
+  <rect x="97.0" y="-1.0" width="5.4945054945054945" height="11.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="97.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,87.0,107.0)" style="font-size:1.0000000000000013px;">transmissibilit</text>
+  <rect x="103.0" y="0.0" width="5.4945054945054945" height="10.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="103.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,93.0,113.0)" style="font-size:1.0000000000000013px;">viral envelope</text>
+  <rect x="108.0" y="0.0" width="5.4945054945054945" height="10.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="108.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,98.0,118.0)" style="font-size:1.0000000000000013px;">reassortment</text>
+  <rect x="114.0" y="1.0" width="5.4945054945054945" height="9.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="114.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,104.0,124.0)" style="font-size:1.0000000000000013px;">Centers for Dis</text>
+  <rect x="119.0" y="3.0" width="5.4945054945054945" height="7.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="119.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,109.0,129.0)" style="font-size:1.0000000000000013px;">cell entry</text>
+  <rect x="125.0" y="4.0" width="5.4945054945054945" height="6.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="125.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,115.0,135.0)" style="font-size:1.0000000000000013px;">incubation peri</text>
+  <rect x="130.0" y="5.0" width="5.4945054945054945" height="5.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="130.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,120.0,140.0)" style="font-size:1.0000000000000013px;">coronaviruses</text>
+  <rect x="136.0" y="6.0" width="5.4945054945054945" height="4.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="136.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,125.99999999999999,146.0)" style="font-size:1.0000000000000013px;">nucleic acids.</text>
+  <rect x="141.0" y="6.0" width="5.4945054945054945" height="4.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="141.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,131.0,151.0)" style="font-size:1.0000000000000013px;">case fatality r</text>
+  <rect x="147.0" y="6.0" width="5.4945054945054945" height="4.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="147.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,137.0,157.0)" style="font-size:1.0000000000000013px;">fusion peptide</text>
+  <rect x="152.0" y="6.0" width="5.4945054945054945" height="4.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="152.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,142.0,162.0)" style="font-size:1.0000000000000013px;">virulence facto</text>
+  <rect x="158.0" y="6.0" width="5.4945054945054945" height="4.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="158.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,148.0,168.0)" style="font-size:1.0000000000000013px;">virulence facto</text>
+  <rect x="163.0" y="6.0" width="5.4945054945054945" height="4.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="163.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,153.0,173.0)" style="font-size:1.0000000000000013px;">basic reproduct</text>
+  <rect x="169.0" y="7.0" width="5.4945054945054945" height="3.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="169.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,159.0,179.0)" style="font-size:1.0000000000000013px;">Centers for Dis</text>
+  <rect x="174.0" y="7.0" width="5.4945054945054945" height="3.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="174.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,164.0,184.0)" style="font-size:1.0000000000000013px;">incubation peri</text>
+  <rect x="180.0" y="7.0" width="5.4945054945054945" height="3.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="180.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,170.0,190.0)" style="font-size:1.0000000000000013px;">SARS-CoV</text>
+  <rect x="185.0" y="7.0" width="5.4945054945054945" height="3.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="185.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,175.0,195.0)" style="font-size:1.0000000000000013px;">Centers for Dis</text>
+  <rect x="191.0" y="7.0" width="5.4945054945054945" height="3.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="191.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,181.0,201.0)" style="font-size:1.0000000000000013px;">nucleic acids,</text>
+  <rect x="196.0" y="8.0" width="5.4945054945054945" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="196.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,186.0,206.0)" style="font-size:1.0000000000000013px;">cell entry.</text>
+  <rect x="202.0" y="8.0" width="5.4945054945054945" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="202.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,192.0,212.0)" style="font-size:1.0000000000000013px;">Middle East res</text>
+  <rect x="207.0" y="9.0" width="5.4945054945054945" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="207.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,197.0,217.0)" style="font-size:1.0000000000000013px;">viral envelope.</text>
+  <rect x="213.0" y="9.0" width="5.4945054945054945" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="213.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,203.0,223.0)" style="font-size:1.0000000000000013px;">229E</text>
+  <rect x="218.0" y="9.0" width="5.4945054945054945" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="218.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,208.0,228.0)" style="font-size:1.0000000000000013px;">viral species</text>
+  <rect x="224.0" y="9.0" width="5.4945054945054945" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="224.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,214.0,234.0)" style="font-size:1.0000000000000013px;">Guangzhou</text>
+  <rect x="229.0" y="9.0" width="5.4945054945054945" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="229.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,219.0,239.0)" style="font-size:1.0000000000000013px;">NL63</text>
+  <rect x="235.0" y="9.0" width="5.4945054945054945" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="235.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,225.0,245.0)" style="font-size:1.0000000000000013px;">MERS-CoV</text>
+  <rect x="240.0" y="9.0" width="5.4945054945054945" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="240.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,230.0,250.0)" style="font-size:1.0000000000000013px;">cell entry,</text>
+  <rect x="246.0" y="9.0" width="5.4945054945054945" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="246.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,236.0,256.0)" style="font-size:1.0000000000000013px;">Coronaviridae</text>
+  <rect x="251.0" y="9.0" width="5.4945054945054945" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="251.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,240.99999999999997,261.0)" style="font-size:1.0000000000000013px;">OC43</text>
+  <rect x="257.0" y="9.0" width="5.4945054945054945" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="257.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,246.99999999999997,267.0)" style="font-size:1.0000000000000013px;">basic reproduct</text>
+  <rect x="262.0" y="9.0" width="5.4945054945054945" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="262.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,251.99999999999997,272.0)" style="font-size:1.0000000000000013px;">viral envelope,</text>
+  <rect x="268.0" y="9.0" width="5.4945054945054945" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="268.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,258.0,278.0)" style="font-size:1.0000000000000013px;">respiratory dro</text>
+  <rect x="273.0" y="9.0" width="5.4945054945054945" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="273.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,263.0,283.0)" style="font-size:1.0000000000000013px;">immune response</text>
+  <rect x="279.0" y="9.0" width="5.4945054945054945" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="279.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,269.0,289.0)" style="font-size:1.0000000000000013px;">HKU1</text>
+  <rect x="284.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="284.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,274.0,294.0)" style="font-size:1.0000000000000013px;">positive-sense </text>
+  <rect x="290.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="290.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,280.0,300.0)" style="font-size:1.0000000000000013px;">Nidovirales</text>
+  <rect x="295.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="295.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,285.0,305.0)" style="font-size:1.0000000000000013px;">Wuhan</text>
+  <rect x="301.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="301.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,291.0,311.0)" style="font-size:1.0000000000000013px;">fusion peptide.</text>
+  <rect x="306.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="306.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,296.0,316.0)" style="font-size:1.0000000000000013px;">Severe acute re</text>
+  <rect x="312.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="312.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,302.0,322.0)" style="font-size:1.0000000000000013px;">Betacoronavirus</text>
+  <rect x="317.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="317.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,307.0,327.0)" style="font-size:1.0000000000000013px;">basic reproduct</text>
+  <rect x="323.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="323.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,313.0,333.0)" style="font-size:1.0000000000000013px;">immune response</text>
+  <rect x="328.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="328.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,318.0,338.0)" style="font-size:1.0000000000000013px;">case fatality r</text>
+  <rect x="334.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="334.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,324.0,344.0)" style="font-size:1.0000000000000013px;">viral species,</text>
+  <rect x="339.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="339.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,329.0,349.0)" style="font-size:1.0000000000000013px;">traditional Chi</text>
+  <rect x="345.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="345.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,335.0,355.0)" style="font-size:1.0000000000000013px;">incubation peri</text>
+  <rect x="350.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="350.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,340.0,360.0)" style="font-size:1.0000000000000013px;">respiratory dro</text>
+  <rect x="356.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="356.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,346.0,366.0)" style="font-size:1.0000000000000013px;">Centers for Dis</text>
+  <rect x="361.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="361.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,351.0,371.0)" style="font-size:1.0000000000000013px;">fusion peptide,</text>
+  <rect x="367.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="367.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,357.0,377.0)" style="font-size:1.0000000000000013px;">nucleic acids;</text>
+  <rect x="372.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="372.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,362.0,382.0)" style="font-size:1.0000000000000013px;">respiratory dro</text>
+  <rect x="378.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="378.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,368.0,388.0)" style="font-size:1.0000000000000013px;">TMPRSS2</text>
+  <rect x="383.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="383.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,373.0,393.0)" style="font-size:1.0000000000000013px;">case fatality r</text>
+  <rect x="389.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="389.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,379.0,399.0)" style="font-size:1.0000000000000013px;">virulence facto</text>
+  <rect x="394.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="394.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,384.0,404.0)" style="font-size:1.0000000000000013px;">viral envelope;</text>
+  <rect x="400.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="400.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,390.0,410.0)" style="font-size:1.0000000000000013px;">Yunnan province</text>
+  <rect x="405.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="405.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,395.0,415.0)" style="font-size:1.0000000000000013px;">viral species.</text>
+  <rect x="411.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="411.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,401.0,421.0)" style="font-size:1.0000000000000013px;">cell entry;</text>
+  <rect x="416.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="416.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,406.0,426.0)" style="font-size:1.0000000000000013px;">horseshoe bats</text>
+  <rect x="422.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="422.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,412.0,432.0)" style="font-size:1.0000000000000013px;">Rhinolophus aff</text>
+  <rect x="427.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="427.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,417.0,437.0)" style="font-size:1.0000000000000013px;">Severe acute re</text>
+  <rect x="433.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="433.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,423.0,443.0)" style="font-size:1.0000000000000013px;">Rhinolophus sin</text>
+  <rect x="438.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="438.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,428.0,448.0)" style="font-size:1.0000000000000013px;">horseshoe bats.</text>
+  <rect x="444.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="444.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,434.0,454.0)" style="font-size:1.0000000000000013px;">virulence facto</text>
+  <rect x="449.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="449.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,439.0,459.0)" style="font-size:1.0000000000000013px;">cell entry?</text>
+  <rect x="455.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="455.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,445.0,465.0)" style="font-size:1.0000000000000013px;">traditional Chi</text>
+  <rect x="460.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="460.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,450.0,470.0)" style="font-size:1.0000000000000013px;">fusion peptide;</text>
+  <rect x="466.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="466.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,456.0,476.0)" style="font-size:1.0000000000000013px;">Yunnan province</text>
+  <rect x="471.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="471.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,461.0,481.0)" style="font-size:1.0000000000000013px;">Rhinolophus aff</text>
+  <rect x="477.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="477.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,467.0,487.0)" style="font-size:1.0000000000000013px;">Severe acute re</text>
+  <rect x="482.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="482.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,471.99999999999994,492.0)" style="font-size:1.0000000000000013px;">angiotensin con</text>
+  <rect x="488.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="488.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,477.99999999999994,498.0)" style="font-size:1.0000000000000013px;">traditional Chi</text>
+  <rect x="493.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="493.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,482.99999999999994,503.0)" style="font-size:1.0000000000000013px;">pangolin</text>
+  <rect x="499.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="499.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,488.99999999999994,509.0)" style="font-size:1.0000000000000013px;">Hubei province</text>
+  <rect x="504.0" y="10.0" width="5.4945054945054945" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="504.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,493.99999999999994,514.0)" style="font-size:1.0000000000000013px;">traditional Chi</text>
+ </g>
+</svg>

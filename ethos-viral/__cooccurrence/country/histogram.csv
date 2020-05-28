@@ -1,0 +1,350 @@
+country,count
+United States,1946
+United Kingdom,993
+India,954
+South Africa,923
+China,910
+Australia,820
+Kenya,779
+Uganda,766
+Canada,696
+France,666
+South Africa.,651
+Japan,637
+Nigeria,635
+United States.,620
+Germany,596
+Malawi,572
+Brazil,571
+Thailand,531
+United States,,499
+South Africa,,494
+Netherlands,493
+Italy,478
+New Zealand,455
+United Kingdom.,452
+Spain,441
+Ireland,425
+Mexico,425
+Sweden,373
+Zambia,372
+Guinea,364
+Zimbabwe,358
+Hong Kong,344
+United Kingdom,,327
+Ghana,297
+Ethiopia,291
+Pakistan,277
+Egypt,268
+Turkey,259
+Switzerland,258
+Indonesia,257
+Norway,253
+Denmark,252
+Malaysia,246
+Congo,244
+Gambia,237
+Singapore,236
+Israel,234
+Botswana,234
+Jordan,227
+Sudan,222
+Finland,221
+Cameroon,204
+Bangladesh,193
+Mozambique,189
+Senegal,187
+Peru,186
+Rwanda,186
+Belgium,182
+Greece,179
+Saudi Arabia,175
+Sierra Leone,173
+Poland,166
+Kuwait,157
+Portugal,144
+Argentina,143
+Philippines,141
+Burkina Faso,139
+Colombia,133
+Cambodia,132
+Liberia,131
+New Zealand.,126
+Hong Kong.,124
+Chile,123
+Oman,118
+Austria,112
+Mali,111
+Nepal,111
+Hong Kong,,110
+Niger,110
+Jersey,105
+Georgia,104
+Haiti,104
+Sri Lanka,104
+Madagascar,102
+Saudi Arabia.,100
+Cuba,99
+Morocco,97
+Iraq,97
+Benin,96
+Afghanistan,90
+Hungary,90
+Burkina Faso.,90
+Iceland,89
+New Zealand,,89
+Jamaica,89
+Namibia,88
+Burkina Faso,,87
+Saudi Arabia,,86
+Panama,82
+Tunisia,81
+Romania,81
+Sierra Leone.,80
+Lesotho,80
+Sierra Leone,,79
+Gabon,76
+Fiji,76
+Puerto Rico,75
+Viet Nam,74
+Chad,74
+Papua New Guinea,73
+Bahrain,69
+Swaziland,69
+Bolivia,69
+Yemen,67
+Sri Lanka.,67
+Viet Nam.,66
+Somalia,64
+Myanmar,63
+Ecuador,62
+Guatemala,60
+Libya,59
+Angola,59
+Nicaragua,59
+Greenland,58
+Bulgaria,57
+Lebanon,57
+Cyprus,57
+Burundi,56
+Uruguay,56
+Puerto Rico,,55
+Sri Lanka,,54
+Belize,53
+Togo,53
+Czech Republic,52
+Puerto Rico.,52
+Ukraine,50
+Costa Rica,50
+Croatia,50
+Central African Republic,49
+Mauritius,49
+Algeria,48
+Trinidad and Tobago,48
+Barbados,48
+South Sudan,47
+Slovenia,46
+Qatar,46
+South Africa;,45
+Serbia,45
+Papua New Guinea.,44
+Dominican Republic,44
+United Arab Emirates,42
+Honduras,40
+Latvia,39
+El Salvador,37
+Eritrea,36
+United Kingdom;,36
+Malta,36
+Guinea-Bissau,32
+Armenia,32
+Paraguay,31
+Seychelles,31
+Czech Republic,,31
+Slovakia,31
+Lithuania,31
+Luxembourg,30
+Estonia,30
+Tonga,30
+Costa Rica.,30
+Mauritania,29
+Costa Rica,,29
+Viet Nam,,28
+Papua New Guinea,,27
+Montenegro,26
+Mongolia,26
+Solomon Islands,25
+Vanuatu,25
+Democratic Republic of the Congo,25
+Albania,25
+Trinidad and Tobago.,24
+Dominican Republic,,24
+Russian Federation,24
+Martinique,24
+Guyana,24
+Bahamas,23
+Central African Republic,,23
+Suriname,23
+Kazakhstan,22
+Tajikistan,22
+Grenada,22
+Djibouti,21
+Cayman Islands,21
+Equatorial Guinea,21
+Trinidad and Tobago,,20
+South Sudan,,20
+Samoa,20
+Réunion,20
+Guadeloupe,19
+South Africa?,19
+French Guiana,19
+Uzbekistan,19
+French Polynesia,18
+Dominica,18
+United Arab Emirates.,18
+Czech Republic.,18
+United States;,17
+Comoros,17
+Kiribati,17
+United Arab Emirates,,17
+Antarctica,16
+Bhutan,16
+El Salvador.,16
+New Caledonia,16
+Belarus,16
+Cape Verde,16
+"Côte d'Ivoire",15
+Dominican Republic.,15
+Central African Republic.,15
+Sierra Leone?,14
+El Salvador,,14
+Guernsey,13
+South Sudan.,13
+Equatorial Guinea.,13
+Democratic Republic of the Congo.,12
+Solomon Islands,,12
+Isle of Man,12
+Democratic Republic of the Congo,,11
+French Guiana.,11
+Bermuda,11
+French Polynesia.,11
+Monaco,11
+Sierra Leone;,10
+Azerbaijan,10
+Mayotte,10
+Antigua,10
+Equatorial Guinea,,10
+Sao Tome and Principe,10
+French Polynesia,,10
+Cape Verde,,10
+Russian Federation.,9
+Russian Federation,,9
+Kyrgyzstan,9
+Solomon Islands.,9
+Timor-Leste,9
+Andorra,8
+United Kingdom?,8
+Turks and Caicos Islands,8
+American Samoa,8
+Brunei Darussalam,8
+Maldives,8
+Viet Nam;,7
+French Guiana,,7
+Faroe Islands,7
+Gibraltar,7
+New Caledonia,,7
+Nauru,7
+Cayman Islands,,7
+Cayman Islands.,7
+Turkmenistan,7
+Montserrat,6
+Saint Kitts and Nevis,6
+Antigua and Barbuda,6
+Anguilla,6
+"Côte d'Ivoire.",6
+Saudi Arabia;,6
+Aruba,5
+Isle of Man.,5
+British Virgin Islands,5
+Palau,5
+Saudi Arabia?,5
+Bosnia and Herzegovina,,5
+Isle of Man,,5
+Burkina Faso;,5
+Bosnia and Herzegovina,5
+Cook Islands,,5
+Hong Kong;,4
+Faroe Islands.,4
+Tuvalu,4
+Saint Lucia,4
+San Marino,4
+Turks and Caicos Islands.,4
+"Lao People's Democratic Republic",4
+New Zealand;,4
+New Zealand?,4
+Antigua and Barbuda,,4
+"Côte d'Ivoire,",4
+Cook Islands,4
+Niue,4
+Sao Tome and Principe,,4
+British Virgin Islands.,4
+Puerto Rico;,4
+Saint Martin,,3
+Hong Kong?,3
+Marshall Islands,3
+Trinidad and Tobago;,3
+Trinidad and Tobago?,3
+Saint Martin,3
+Liechtenstein,3
+Turks and Caicos Islands,,3
+Brunei Darussalam.,3
+New Caledonia.,3
+"Lao People's Democratic Republic.",3
+Christmas Island,3
+Syrian Arab Republic,3
+Korea, Republic of;,3
+Guam,3
+San Marino,,3
+Norfolk Island,3
+Saint Vincent and the Grenadines,3
+Viet Nam?,2
+Isle of Man;,2
+Western Sahara,,2
+"Lao People's Democratic Republic,",2
+Democratic Republic of the Congo;,2
+United States?,2
+Sri Lanka;,2
+El Salvador;,2
+Russian Federation;,2
+Saint Kitts and Nevis,,2
+Saint Kitts and Nevis.,2
+American Samoa,,2
+American Samoa.,2
+Western Sahara,2
+Bosnia and Herzegovina.,2
+Czech Republic;,2
+Saint Lucia,,2
+Macao,2
+Cook Islands.,2
+Tanzania, United Republic of,1
+Åland Islands.,1
+Northern Mariana Islands.,1
+Northern Mariana Islands,1
+Brunei Darussalam,,1
+South Sudan;,1
+Syrian Arab Republic.,1
+Saint Vincent and the Grenadines,,1
+South Sudan?,1
+Sri Lanka?,1
+Solomon Islands;,1
+Christmas Island,,1
+Antigua and Barbuda;,1
+Curaçao,1
+American Samoa;,1
+San Marino;,1
+British Virgin Islands,,1
+Sao Tome and Principe.,1
+United Arab Emirates;,1
+Burkina Faso?,1
+Cape Verde.,1
+Marshall Islands,,1
